@@ -42,7 +42,7 @@
 > 
 > > 3. _Repositorios em Python com mais estrelas no Github_ 
 > 
-> ![alt text](images/pygal/python_repos.svg?sanitize=true)
+> ![alt text](images/pygal/python_repos.svg)
 
 > ### **Potly**
 > 1. _Terremotos na terra em 30 dias (Json)_ 

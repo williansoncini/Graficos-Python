@@ -39,6 +39,10 @@
 > 2. _Dois lançado 100 vezes_ 
 > 
 > ![alt](images/pygal/dual_dice_100_times.png)
+> 
+> > 3. _Repositorios em Python com mais estrelas no Github_ 
+> 
+> ![alt text](images/pygal/python_repos.svg?sanitize=true)
 
 > ### **Potly**
 > 1. _Terremotos na terra em 30 dias (Json)_ 
